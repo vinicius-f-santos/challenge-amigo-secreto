@@ -7,7 +7,5 @@
 ## 💻Tecnologias
 
 <div>
-  <img width="200px" height="200x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">
-  <img width="200px" height="200x" src="https://banner2.cleanpng.com/20180421/vdq/avee3ca8b.webp">
-  <img width="200px" height="200x" src="https://icon2.cleanpng.com/20190129/jba/kisspng-javascript-web-applications-scalable-vector-graphi-1713908433870.webp">
+  <img width="200px" height="200x" src="https://media.istockphoto.com/id/1300888546/pt/vetorial/html5-css3-and-javascript-program-icons-on-transparent-background.jpg?s=612x612&w=is&k=20&c=edLZXKBeqUdgXztMt6fqJERgsxh77acGibGrGxnZXZs=">
 </div>
