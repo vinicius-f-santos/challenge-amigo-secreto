@@ -4,7 +4,6 @@ let listaAmigos = document.getElementById('listaAmigos');
 let amigoSorteado = document.getElementById('resultado');
 const btnSortear = document.querySelector('.button-draw');
 let nomeSorteado = document.createElement('li');
-let sorteio = Math.floor(Math.random() * amigos.length);
 
 function adicionarAmigo() {
     nomeSorteado.innerHTML = "";
@@ -27,12 +26,13 @@ function adicionarAmigo() {
 
 
 function sortearAmigo() {
+    let sorteio = Math.floor(Math.random() * amigos.length);
     let mensagemAmigoSorteado = `O amigo(a) sorteado foi: ${amigos[sorteio]}`;
     nomeSorteado.innerHTML = mensagemAmigoSorteado;
     amigoSorteado.append(nomeSorteado);
     amigos = [];
     limparListaDeAmigos();
-    btnSortear.setAttribute('disabled',true)
+    btnSortear.setAttribute('disabled',true);
 }
 
 function limparCampo() {
