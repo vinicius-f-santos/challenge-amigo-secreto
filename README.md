@@ -4,7 +4,10 @@
 
 <div>Projeto desenvolvido para simular uma lista de pessoas em um amigo secreto. Proposta realizada durante o decorrer da formação: Iniciante em programação G8 - Alura One.</div>
 
-![Image](https://github.com/user-attachments/assets/509c02d3-c940-47f3-8f1d-567fc3583ac9)
+![Image](https://github.com/user-attachments/assets/a38fdb18-3bf1-46b2-abbe-f01dbf6577db)
+
+<p>Crie sua lista de amigo secreto, você pode inserir os nomes que desejar enquanto observa a lista sendo criada e em seguida com a liberação do botão de sorteio veja o resultado.</p>
+<p>O botão de sorteio é liberado apenas com no mínimo dois nomes na lista e a lista é atualizada conforme os nomes são inseridos</p>
 
 ## 💻Tecnologias
 
