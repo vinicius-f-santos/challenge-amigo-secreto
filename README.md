@@ -4,6 +4,8 @@
 
 <div>Projeto desenvolvido para simular uma lista de pessoas em um amigo secreto. Proposta realizada durante o decorrer da formação: Iniciante em programação G8 - Alura One.</div>
 
+https://github.com/user-attachments/assets/5483e090-d59b-4fc4-bae8-e7ab909e12b3
+
 ## 💻Tecnologias
 
 <div>
